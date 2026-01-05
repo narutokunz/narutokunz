@@ -87,8 +87,12 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=narutokunz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=narutokunz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=narutokunz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<img src="https://github-readme-stats.vercel.app/api?username=narutokunz&theme=dark&hide_border=false&cache_seconds=1800" />
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=narutokunz&theme=dark&hide_border=false&cache_seconds=1800" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narutokunz&theme=dark&hide_border=false&layout=compact&cache_seconds=1800" />
+
 
 
