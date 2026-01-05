@@ -8,9 +8,9 @@
 <h3>Turning ideas into code.</h3>
 
 <ul>
-  <li>🎓 3rd Year B.Tech CSE Student at IGDTUW</li>
-  <li>💻 Full Stack Developer | Backend Intern (Startup Experience)</li>
-  <li>🌐 Strong in DSA (Java), OOPS, OS, DBMS</li>
+  <li>🎓 3rd Year B.Tech CSE Student</li>
+  <li>💻 Full Stack Developer </li>
+  <li>🌐 Strong in DSA , OOPS, OS, DBMS</li>
   <li>🌱 Currently learning React & building full-stack projects</li>
   <li>🚀 Hackathon participant & contributor</li>
   <li>🤖 Open to collaborations and learning opportunities</li>
