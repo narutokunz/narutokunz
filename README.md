@@ -19,7 +19,8 @@
 </td>
 
 <td width="35%" align="right">
-  <img src="https://media.tenor.com/8wKQZ7t0dXAAAAAC/anime-computer.gif" width="260" />
+  <img src="./anime-computer.gif" width="260" />
+
 </td>
 </tr>
 </table>
