@@ -81,7 +81,9 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/niharika-gautam-8736b6309) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/niharikagautm) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:niharikagautam186@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/niharika-gautam-8736b6309)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/niharikagautm)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:niharikagautam186@gmail.com)
 
 
 # 📊 GitHub Stats:
