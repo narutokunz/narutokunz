@@ -19,7 +19,7 @@
 </td>
 
 <td width="35%" align="right">
-  <img src="./anime-computer.gif" width="260" />
+  <img src="./anime-computer2.gif" width="260" />
 
 </td>
 </tr>
