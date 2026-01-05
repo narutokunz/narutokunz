@@ -1,6 +1,10 @@
 
+<table>
+<tr>
+<td width="60%">
+
 # Hi, I'm Niharika 👋
-### Turning ideas into code.
+### Turning ideas into code 🚀
 
 - 🎓 3rd Year B.Tech CSE Student at IGDTUW
 - 💻 Full Stack Developer | Backend Intern (Startup Experience)
@@ -8,6 +12,15 @@
 - 🌱 Currently learning React & building full-stack projects
 - 🚀 Hackathon participant & contributor
 - 🤖 Open to collaborations and learning opportunities
+
+</td>
+
+<td width="40%" align="center">
+<img src="https://media.tenor.com/8wKQZ7t0dXAAAAAC/anime-computer.gif" width="280"/>
+</td>
+</tr>
+</table>
+
 
 ## 💻 Programming Languages
 
