@@ -75,6 +75,10 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
+### Certification Badges 
+![LeetCode Badge](https://leetcode.com/static/images/badges/2024/50-days-badge.gif)
+
+
 
 
 ## 🌐 Socials:
