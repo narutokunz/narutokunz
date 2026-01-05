@@ -9,7 +9,7 @@
 - 🚀 Hackathon participant & contributor
 - 🤖 Open to collaborations and learning opportunities
 
-  ## 💻 Programming Languages
+## 💻 Programming Languages
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
