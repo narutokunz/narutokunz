@@ -1,12 +1,28 @@
 # Hi, I'm Niharika 👋
 ### Turning ideas into code.
 
-* 🎓 3rd Year B.Tech CSE Student at IGDTUW
-* 💻 Full Stack Developer | Backend Intern (Startup Experience)
-* 🌐 Strong in DSA (Java), OOPS, OS, DBMS
-* 🌱 Currently learning React & building full-stack projects
-* 🚀 Hackathon participant & contributor
-* 🤖 Open to collaborations and learning opportunities
+<table>
+<tr>
+<td width="65%" valign="top">
+
+<h3>Turning ideas into code.</h3>
+
+<ul>
+  <li>🎓 3rd Year B.Tech CSE Student at IGDTUW</li>
+  <li>💻 Full Stack Developer | Backend Intern (Startup Experience)</li>
+  <li>🌐 Strong in DSA (Java), OOPS, OS, DBMS</li>
+  <li>🌱 Currently learning React & building full-stack projects</li>
+  <li>🚀 Hackathon participant & contributor</li>
+  <li>🤖 Open to collaborations and learning opportunities</li>
+</ul>
+
+</td>
+
+<td width="35%" align="right">
+  <img src="https://media.tenor.com/8wKQZ7t0dXAAAAAC/anime-computer.gif" width="260" />
+</td>
+</tr>
+</table>
 
 
 
