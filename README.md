@@ -1,25 +1,26 @@
-
 <table>
 <tr>
-<td width="60%">
+<td width="60%" valign="top">
 
-# Hi, I'm Niharika 👋
-### Turning ideas into code 🚀
+<h3>Turning ideas into code 🚀</h3>
 
-- 🎓 3rd Year B.Tech CSE Student at IGDTUW
-- 💻 Full Stack Developer | Backend Intern (Startup Experience)
-- 🌐 Strong in DSA (Java), OOPS, OS, DBMS
-- 🌱 Currently learning React & building full-stack projects
-- 🚀 Hackathon participant & contributor
-- 🤖 Open to collaborations and learning opportunities
+<p>
+🎓 <b>3rd Year B.Tech CSE Student at IGDTUW</b><br>
+💻 <b>Full Stack Developer | Backend Intern (Startup Experience)</b><br>
+🌐 <b>Strong in DSA (Java), OOPS, OS, DBMS</b><br>
+🌱 <b>Currently learning React & building full-stack projects</b><br>
+🚀 <b>Hackathon participant & contributor</b><br>
+🤖 <b>Open to collaborations and learning opportunities</b>
+</p>
 
 </td>
 
 <td width="40%" align="center">
-<img src="https://media.tenor.com/8wKQZ7t0dXAAAAAC/anime-computer.gif" width="280"/>
+<img src="https://media.tenor.com/8wKQZ7t0dXAAAAAC/anime-computer.gif" width="260" />
 </td>
 </tr>
 </table>
+
 
 
 ## 💻 Programming Languages
