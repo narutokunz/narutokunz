@@ -10,7 +10,7 @@
 <ul>
   <li>🎓 3rd Year B.Tech CSE Student</li>
   <li>💻 Full Stack Developer </li>
-  <li>🌐 Strong in DSA , OOPS, OS, DBMS</li>
+  <li>🌐 Focusing on DSA and Developement</li>
   <li>🌱 Currently learning React & building full-stack projects</li>
   <li>🚀 Hackathon participant & contributor</li>
   <li>🤖 Open to collaborations and learning opportunities</li>
